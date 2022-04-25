@@ -2,7 +2,7 @@
 
 ## Purpose
 
-A website that hosts a password generator that create secure passwords.
+A website that hosts a password generator that creates secure passwords.
 
 ## Built with
 
